@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingShiiit and I'mnew to application development
+- 👋 Hi, I’m @KingShiiit and I'm new to application development
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning to develop a web application in C # ASP.NET
 - 💞️ I’m looking to collaborate on  CENTRALIZED ROAD TRANSPORT AND TICKET RESERVATION PLATFORM IN INTER-URBAN AREAS
